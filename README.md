@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # flutter_application_1
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Login-app
 >>>>>>> 330c7d001ab1c50893e3d86b1efbef29e6fa332c
+=======
+
+>>>>>>> 9366fafab2b89da8d1ef8b72c823b9b48dd41e14
