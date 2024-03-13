@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618380278359",
+    "project_id": "laundry-management-4555f",
+    "storage_bucket": "laundry-management-4555f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618380278359:android:2a101dd5de5133180e4112",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vGX3TH67CWuF3upid8xLEJWa1sIzljs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
